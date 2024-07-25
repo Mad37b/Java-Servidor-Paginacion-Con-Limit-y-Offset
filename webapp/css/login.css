@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{background-color: grey;}
+
+h2{text-align: center;}
+
+.contenedor{
+	
+	background-color: grey;
+	
+	border:2px black solid;
+	border-radius:6px;
+	
+	
+	
+	
+}
